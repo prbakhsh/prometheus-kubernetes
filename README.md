@@ -31,7 +31,7 @@ The purpose of this project is to provide a simple and interactive method to dep
      * 10252/TCP -                kube-controller-manager
      * 10054/TCP and 10055/TCP -  kube-dns
 
-#### Optional
+#### Optional.
 * SMTP Account for email alerts
 * Token for Slack alerts
 
