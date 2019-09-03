@@ -6,7 +6,7 @@
 **Note:** the work on this repository is now based on CoreOS's [kube-prometheus](https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus) and it will be the default option for Kubernetes 1.7.X and up. For 1.5.X and 1.6.X you can deploy a simpler solution, located in `./basic` directory.
 The purpose of this project is to provide a simple and interactive method to deploy and configure Prometheus on Kubernetes, especially for the users that are not using Helm.
 
-## Features
+## Features!
 * Prometheus Operator with support for Prometheus v2.X.X
 * highly available Prometheus and Alertmaneger
 * InCluster deployment using `StatefulSets` for persistent storage
